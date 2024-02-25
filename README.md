@@ -69,13 +69,13 @@ where the nonnegative integer `n` is the number of trials and `0 <= p <= 1` is t
 ## Usage
 
 ```javascript
-import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mgf@deno/mod.js';
+import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mgf@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mgf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mgf@v0.2.1-deno/mod.js';
 ```
 
 #### mgf( t, n, p )
@@ -163,7 +163,7 @@ var y = myMGF( 0.3 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mgf@deno/mod.js';
+import mgf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mgf@v0.2.1-deno/mod.js';
 
 var n;
 var p;
