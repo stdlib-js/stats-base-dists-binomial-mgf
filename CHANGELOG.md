@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-11-02)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2861fe4`](https://github.com/stdlib-js/stdlib/commit/2861fe430548bb441cce624fcfe35a66059c5fba) - **chore:** clean-up [(#16062)](https://github.com/stdlib-js/stdlib/pull/16062) _(by Philipp Burckhardt)_
 -   [`8fe5901`](https://github.com/stdlib-js/stdlib/commit/8fe590181a8c6aaf420c1ff44290d77ddb743f24) - **test:** migrate `stats/base/dists/binomial/mgf` to ULP-based assertions [(#14890)](https://github.com/stdlib-js/stdlib/pull/14890) _(by Aryan kumar)_
 -   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
 -   [`8448f5a`](https://github.com/stdlib-js/stdlib/commit/8448f5a44bad7e305d50ac9e92ba195bac863389) - **chore:** ensure consistent use of semicolons [(#11170)](https://github.com/stdlib-js/stdlib/pull/11170) _(by Philipp Burckhardt, Athan Reines)_
